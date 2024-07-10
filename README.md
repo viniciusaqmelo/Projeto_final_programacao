@@ -1,1 +1,3 @@
-# Projeto_final_programacao
+# Projeto Programação
+
+Projeto baseado em uma aplicação do tipo Spotify.
